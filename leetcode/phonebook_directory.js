@@ -1,3 +1,13 @@
+// Algo to design a Phone book.
+
+// - Where user should be able to save multiple phone no against one user
+// - Searching should be faster
+// - Ankit & Aman can have same number & both of them should come when searching via number
+// - People should be able to search by name, number etc.
+// - People can search using wild card or regex based searching for ex. it - shows Ankit, Amit, Ramit, Mitwa
+
+
+
 
 function searchByName(key, contacts){
 
