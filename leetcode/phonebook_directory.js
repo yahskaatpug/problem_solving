@@ -52,17 +52,17 @@ function searchByNumber(key, contacts){
 let contacts = [
     {
         id:'1',
-        name:'Akshay',
+        name:'Akshay Gupta',
         phone:['9407142196']
     },
     {
         id:'2',
-        name:'Gaurav',
+        name:'Gaurav Jain',
         phone:['8234567893','6262387889']
     },
     {
         id:'3',
-        name:'Shikhar',
+        name:'Shikhar Parikh',
         phone:['7234567912','6262387889']
     },
 ]
