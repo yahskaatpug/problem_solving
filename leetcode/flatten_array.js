@@ -16,7 +16,7 @@
 
 function recurFlat1(i, arr, res){
 
-    if(i >= arr.length) return;
+    if(i == arr.length) return;
 
     if(Array.isArray(arr[i])){
         recurFlat1(0, arr[i], res);
