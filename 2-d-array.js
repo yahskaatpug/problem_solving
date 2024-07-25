@@ -1,5 +1,5 @@
 
-const convertTo2DArray = (arr,n)=>{
+const convertToNDArray = (arr,n)=>{
     let tmpArr=[];
     let tmpCount=0;
     let res = [];
@@ -25,5 +25,5 @@ const convertTo2DArray = (arr,n)=>{
 
 const arr = [1,2,3,4,5,6,7];
 const n =3;
-console.log(convertTo2DArray(arr,n));
+console.log(convertToNDArray(arr,n));
 
